@@ -1,0 +1,230 @@
+?xml version="1.0" encoding="UTF-8"?>
+<catalogue>
+    <book>
+        <title>İFA: İnsanın Fabrika Ayarları 2. Kitap-İlişkiler ve Stres</title>
+        <author>Sinan Canan</author>
+        <publisher>Tuti Kitap</publisher>
+        <isbn>9786059218627</isbn>
+        <date>2020</date>
+        <price>20.40 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/IFA-Insanin-Fabrika-Ayarlari-2-Kitap-Iliskiler-ve-Stres/Sinan-Canan/Bilim/Populer-Bilim/urunno=0001859756001</url>
+    </book>
+    <book>
+        <title>Incognito - Beynin Gizli Hayatı</title>
+        <author>David Eagleman</author>
+        <translator>Zeynep Arık Tozar<translator>
+        <publisher>Domingo Yayınevi</publisher>
+        <isbn>9786054729074</isbn>
+        <date>2013</date>
+        <price>24.00 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Incognito-Beynin-Gizli-Hayati/Bilim/Populer-Bilim/urunno=0000000440847</url>
+    </book>
+    <book>
+        <title>Göbekli Tepe - Tanrıların Doğuşu</title>
+        <author>Andrew Collins</author>
+        <translator>Leyla Tonguç Basmacı<translator>
+        <publisher>Alfa Yayıncılık</publisher>
+        <isbn>9786051713939</isbn>
+        <date>2016</date>
+        <price>32.16 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Gobekli-Tepe-Tanrilarin-Dogusu/Bilim/Arkeoloji/urunno=0000000725025</url>
+    </book>
+    <book>
+        <title>Kara Delikler</title>
+        <author>Stephen Hawking</author>
+        <translator>Kerem Cankoçak<translator>
+        <publisher>Alfa Yayıncılık</publisher>
+        <isbn>9786051715513</isbn>
+        <date>2017</date>
+        <price>10.05 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Kara-Delikler/Bilim/Astronomi/urunno=0001718325001</url>
+    </book>
+    <book>
+        <title>Beyin Senin Hikayen</title>
+        <author>David Eagleman</author>
+        <translator>Zeynep Arık Tozar<translator>
+        <publisher>Domingo Yayınevi</publisher>
+        <isbn>9786054729692</isbn>
+        <date>2016</date>
+        <price>24.00 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Beyin-Senin-Hikayen/Bilim/Populer-Bilim/urunno=0000000693729</url>
+    </book>
+    <book>
+        <title>İnsanlık 2.0</title>
+        <author>Ray Kurzweil</author>
+        <translator>Mine Şengel<translator>
+        <publisher>Alfa Yayıncılık</publisher>
+        <isbn>9786051712550</isbn>
+        <date>2016</date>
+        <price>37.52 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Insanlik-2-0/Bilim/Populer-Bilim/urunno=0000000688766</url>
+    </book>
+    <book>
+        <title>Kozmos</title>
+        <author>Carl Sagan</author>
+        <translator>Reşit Aşçıoğlu<translator>
+        <publisher>Altın Kitaplar</publisher>
+        <isbn>9789752107830</isbn>
+        <date>2007</date>
+        <price>25.35 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Kozmos/Bilim/Astronomi/urunno=0000000059256</url>
+    </book>
+    <book>
+        <title>Tanrı Yanılgısı</title>
+        <author>Richard Dawkins</author>
+        <publisher>Kuzey Yayınları</publisher>
+        <isbn>9789944315111</isbn>
+        <date>2007</date>
+        <price>30.42 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Tanri-Yanilgisi/Bilim/Bilim-Tarihi-Ve-Felsefesi/urunno=0000000240160</url>
+    </book>
+    <book>
+        <title>İzafiyet Teorisi</title>
+        <author>Albert Einstein</author>
+        <translator>Gülen Aktaş<translator>
+        <publisher>Say Yayınları</publisher>
+        <isbn>9789754680119</isbn>
+        <date>2004</date>
+        <price>10.50 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Izafiyet-Teorisi/Albert-Einstein/Bilim/Fizik/urunno=0000000061201</url>
+    </book>
+    <book>
+        <title>Gen Bencildir</title>
+        <author>Richard Dawkins</author>
+        <translator>Tunç Tuncay Bilgin<translator>
+        <publisher>Kuzey Yayınları</publisher>
+        <isbn>9789944315791</isbn>
+        <date>2014</date>
+        <price>27.30 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Gen-Bencildir/Bilim/Biyoloji/urunno=0000000601773</url>
+    </book>
+    <book>
+        <title>50 Soruda Yapay Zeka</title>
+        <author>Cem Say</author>
+        <publisher>Bilim ve Gelecek</publisher>
+        <isbn>9786055888589</isbn>
+        <date>2018</date>
+        <price>19.50 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/50-Soruda-Yapay-Zeka/Bilim/Populer-Bilim/urunno=0001780164001</url>
+    </book>
+    <book>
+        <title>Benim Gözümden Dünya</title>
+        <author>Albert Einstein</author>
+        <translator>Demet Evrenosoğlu<translator>
+        <publisher>Alfa Yayıncılık</publisher>
+        <isbn>9786051060606</isbn>
+        <date>2008</date>
+        <price>12.73 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Benim-Gozumden-Dunya/Bilim/Bilim-Tarihi-Ve-Felsefesi/urunno=0000000288315</url>
+    </book>
+     <book>
+        <title>İcat Çıkarma!</title>
+        <author>Albert Jack Jack</author>
+        <translator>Murat Çetinbakış<translator>
+        <publisher>Eksik Parça</publisher>
+        <isbn>9786059864671</isbn>
+        <date>2016</date>
+        <price>13.72 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Icat-Cikarma/Albert-Jack-Jack/Bilim/Populer-Bilim/urunno=0000000688012</url>
+    </book>
+    <book>
+        <title>Biraz Kuantum'dan Zarar Gelmez</title>
+        <author>Marcus Chown</author>
+        <translator>Taylan Taftaf<translator>
+        <publisher>Alfa Yayıncılık</publisher>
+        <isbn>9786051060736</isbn>
+        <date>2009</date>
+        <price>15.41 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Biraz-Kuantumdan-Zarar-Gelmez/Bilim/Fizik/urunno=0000000292340</url>
+    </book>
+    <book>
+        <title>Aptal Beyin</title>
+        <author>Dean Burnett</author>
+        <translator>Atilla Erol<translator>
+        <publisher>Aganta Kitap</publisher>
+        <isbn>9786059851916</isbn>
+        <date>2016</date>
+        <price>23.12 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Aptal-Beyin/Dean-Burnett/Bilim/Populer-Bilim/urunno=0000000719679</url>
+    </book>
+    <book>
+        <title>Bir Zihin Yaratmak</title>
+        <author>Ray Kurzweil</author>
+        <translator>Dilara Gostolüpçe<translator>
+        <publisher>İstanbul Bilgi Üniversitesi Yayınları</publisher>
+        <isbn>9786053994220</isbn>
+        <date>2015</date>
+        <price>28.08 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Bir-Zihin-Yaratmak/Bilim/Populer-Bilim/urunno=0000000673229</url>
+    </book>
+    <book>
+        <title>İlk Okuma Kaplanlar</title>
+        <author>James Maclaine</author>
+        <publisher>Tübitak Yayınları</publisher>
+        <isbn>9789754037364</isbn>
+        <date>2013</date>
+        <price>3.33 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Ilk-Okuma-Kaplanlar/Bilim/Populer-Bilim/urunno=0000000455547</url>
+    </book>
+    <book>
+        <title>Ay'da</title>
+        <author>Anna Milbourne</author>
+        <publisher>Tübitak Yayınları</publisher>
+        <isbn>9789754033847</isbn>
+        <date>2011</date>
+        <price>6.30 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Ayda/Anna-Milbourne/Bilim/Tubitak-Kitaplari/urunno=0000000382340</url>
+    </book>
+    <book>
+        <title>İnsanın Türeyişi</title>
+        <author>Charles Darwin</author>
+        <translator>Bahar Kılıç<translator>
+        <publisher>Alfa Yayıncılık</publisher>
+        <isbn>9786050381115</isbn>
+        <date>2019</date>
+        <price>16.75 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Insanin-Tureyisi/Bilim/Populer-Bilim/urunno=0001850360001</url>
+    </book>
+    <book>
+        <title>İnsanlığın Geleceği</title>
+        <author>Michio Kaku</author>
+        <publisher>Odtü</publisher>
+        <isbn>9786057744029</isbn>
+        <date>2019</date>
+        <price>28.50 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Insanligin-Gelecegi/Michio-Kaku/Bilim/Bilim-Tarihi-ve-Felsefesi/urunno=0001846055001</url>
+    </book>
+    <book>
+        <title>Dünya'nın Tüm Dertleri</title>
+        <author>Marcus Chown</author>
+        <translator>Zeynep Arık Tozar<translator>
+        <publisher>Domingo Yayınevi</publisher>
+        <isbn>9786054729531</isbn>
+        <date>2015</date>
+        <price>26.25 TL</price>
+        <language>Türkçe</language>
+        <url>https://www.dr.com.tr/Kitap/Dunyanin-Tum-Dertleri/Bilim/Populer-Bilim/urunno=0000000659654</url>
+    </book>
+    
+    
+    <catalogue>
